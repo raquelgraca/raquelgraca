@@ -4,7 +4,7 @@
 
 ## Hi there 👋
 
-I'm Raquel Graça, I'm a junior Full Stack Developer, with over 10 years of experience in digital marketing,  also passionate about tech and business.
-- 🔭 I’m currently working on Ordway - a smart billing and revenue automation platform.
-- 🌱 I’m currently learning JS and React.
+I'm Raquel Graça, I'm a junior Full Stack Developer, with over 10 years of experience in digital marketing, also passionate about tech and business.
+- 🔭 I’m currently working at Ordway - a smart billing and revenue automation platform.
+- 🌱 Learning JS and React.
 - ⚙️ I use daily: `.html`, `.css`.
